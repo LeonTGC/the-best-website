@@ -1,0 +1,30 @@
+h1 {
+    color: coral;
+}
+
+#headings {
+    background-color: aquamarine;
+}
+
+.mainText {
+    color: darkorange;
+}
+.bigText {
+    font-size: 30px;
+}
+
+#imageContainer {
+    width: 99%;
+    border: solid green 15px;
+}
+
+img {
+    /* border-color: red;
+    border-style: solid;
+    border-width: 3px; */
+    box-sizing: border-box;
+    padding: 10px;
+    border: 3px solid hwb(0 23% 27%);
+    width: 33px;
+}
+
