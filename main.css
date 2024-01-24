@@ -29,5 +29,9 @@ img {
 }
 
 img {
-    width: 40px;
+    width: 200px;
+}
+
+.border {
+    border: solid 3px red;
 }
